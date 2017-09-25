@@ -55,7 +55,7 @@
         "Runtime": "nodejs",
         "Timeout": "300",
         "Code": {
-          "S3Bucket": "lambda-packager",
+          "S3Bucket": "sf-lambda-dependencies",
           "S3Key": "output.zip"
         }
       }
